@@ -1,0 +1,51 @@
+/* css de la page de traitement mysql */
+
+#general{
+width:600px;
+margin:0 auto;
+font-size:10px;
+font-family:geneva, arial, sans-serif;
+}
+
+textarea {
+padding:3px;
+border:1px solid #ccc;
+color:#111;
+font-size:12px;
+width:100%;
+margin:1em 0;
+}
+
+table {
+border-collapse:collapse;
+border:1px solid #ccc;
+}
+
+td {
+border:1px solid #ddd;
+padding:2px;
+}
+
+hr {
+margin:1em 0;
+}
+
+#message {
+border: 1px solid green;
+padding:1em;
+color:green;
+font-size:12px;
+font-weight: bold;
+}
+
+body {
+    background-color: aqua;
+    font-style: inherit;
+}
+
+p {
+    color: lawngreen;
+    text-align: center;
+    font-style: initial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
